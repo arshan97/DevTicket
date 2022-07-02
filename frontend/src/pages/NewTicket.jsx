@@ -69,9 +69,9 @@ function NewTicket() {
               onChange={(e) => setProject(e.target.value)}
             >
               <option value='Marketing Website'>Marketing Website</option>
-              <option value='Main App'>Main App</option>
+              <option value='Main Website'>Main Website</option>
               <option value='Android'>Android</option>
-              <option value='Iphone'>Iphone</option>
+              <option value='IOS'>IOS</option>
             </select>
           </div>
           <div className='form-group'>
