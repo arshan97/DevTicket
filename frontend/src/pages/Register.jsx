@@ -12,7 +12,7 @@ function Register() {
     email: "",
     password: "",
     password2: "",
-    tester: true,
+    tester: false,
   });
 
   const { name, email, password, password2, tester } = formData;
