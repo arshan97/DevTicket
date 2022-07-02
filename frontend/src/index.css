@@ -113,6 +113,7 @@ h3 {
 .form {
   width: 70%;
   margin: 0 auto;
+  padding-bottom: 1px;
 }
 
 .form-group {
